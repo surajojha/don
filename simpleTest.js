@@ -1,2 +1,2 @@
 let x = "Suraj";
-let y = new String("John");
+let y = new String("Suraj");
